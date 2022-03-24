@@ -1166,8 +1166,8 @@ footer .container ul li i {
     font-size: 20px;
 }
 
-footer .container p strong {
-    color: var(--main-color);
+footer .container p  a{
+   color: var(--main-color);
 }
 
 /* End footer */ 

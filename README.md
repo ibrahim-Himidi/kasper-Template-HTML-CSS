@@ -1,5 +1,4 @@
-# kasper-html-css-template
-kasper template 
+# kasper-Template-HTML-CSS
+This site was built using HTML and CSS [Demo](https://ibrahim-himidi.github.io/kasper-Template-HTML-CSS/).
 
-### Kasper - One Page Creative PSD Template
-###### https://www.graphberry.com/item/kasper-one-page-psd-template
+Design By [graphberry](https://www.graphberry.com/item/kasper-one-page-psd-template).
